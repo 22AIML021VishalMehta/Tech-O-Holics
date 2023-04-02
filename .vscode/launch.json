@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Veeshal's stuff/Cspit cse-aiml/OOPC Group Project/Github Cloned respository/Tech-O-Holics",
-      "program": "c:/Veeshal's stuff/Cspit cse-aiml/OOPC Group Project/Github Cloned respository/Tech-O-Holics/build/Debug/outDebug",
+      "cwd": "c:/Veeshal's stuff/Cspit cse-aiml/OOPC Group Project/Github Cloned respository/Tech-O-Holics-1",
+      "program": "c:/Veeshal's stuff/Cspit cse-aiml/OOPC Group Project/Github Cloned respository/Tech-O-Holics-1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
